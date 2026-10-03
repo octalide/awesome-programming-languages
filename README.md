@@ -3,7 +3,7 @@ The list of **965** programming languages that you might be interested in.
 If you like exploring programming languages, or you are making your own programming language,
 then it's place for you. Here you can find interesting programming languages that are not well known or promote your own programming language. Also, it's the place to look for a new ideas and inspiration. Feel free to make a contribution.
 
-## Related: 
+#elated: 
 - [Awesome Programming Languages articles](awesome-pl-articles.md);
 - [See also section](#see-also);
  
@@ -660,7 +660,7 @@ enables you to:
 - [Kernel](https://web.cs.wpi.edu/~jshutt/kernel.html) - Kernel is a conservative, Scheme-like dialect of Lisp in which everything is a first-class object.
 - [Kew](https://kew.sourceforge.net/) - Kew is a powerful but small object-oriented programming language that offers many advanced features, including proper closures, first-class variables, relations, continuations, exceptions, dynamic variables, security, transactions, persistence.... 
 - [Key](http://web.archive.org/web/20041012094909/http://www.webkool.net/wk/About/Key$QQjEPgoCBwsAAEYyAP0AAP$0) - a dynamic language that allowed both class abstraction and object description.
-- [Keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) - Keysharp is a fork and improvement of the abandoned IronAHK project, which itself was a C# re-write of the C++ AutoHotkey project. The intent is for Keysharp to run on Windows, Linux and eventually Mac. For now, only Windows is supported.
+- [Keysharp](https://bitbucket.org/mfeemster/keysharp/src/master/) - Keysharp is a fork and improvement of the abandoned IronAHK project, which itself was a Ce-write of the C++ AutoHotkey project. The intent is for Keysharp to run on Windows, Linux and eventually Mac. For now, only Windows is supported.
 - [Kin](https://github.com/kin-lang/kin) - Kin is a straightforward programming language created with the purpose of aiding Kinyarwanda speakers in easily learning programming.
 - [Kind](https://github.com/Kindelia/Kind) - A minimal, efficient and practical programming language that aims to rethink functional programming from the scratch, and make it right. Under the hoods, it is basically Haskell, except without historical mistakes, and with a modern, consistent design. On the surface, it aims to be more practical, and to look more like conventional languages. Kind is statically typed, and its types are so powerful that you can prove mathematical theorems on it.
 - [Kind](https://github.com/HigherOrderCO/Kind) - Kind is a pure functional programming language and proof assistant.
@@ -1104,6 +1104,7 @@ The basic language is very portable. It runs on a tiny virtual machine (Nga), wh
 - [rpn](https://github.com/louisrubet/rpn) - rpn - Reverse Polish Notation CLI calculator. A math functional language using reverse (postfix) polish notation
 - [Rune](https://github.com/rune-rs/rune) - The Rune Language, an embeddable dynamic programming language for Rust.
 - [RustScript](https://github.com/mkhan45/RustScript2) - RustScript is a functional scripting language with as much relation to Rust as Javascript has to Java.
+- [RydenScript](https://github.com/maiomcorp-oss/RydenScript) - A tag-based general-purpose language that compiles to PowerShell and web. Supports desktop GUI (Windows Forms), 2D/3D game engines, P2P networking, and system automation.   
 <a name="S"></a>
 # S (56):
 - [SaC](https://www.sac-home.org/index) - Single-Assignment C is an array programming language predominantly suited for application areas such as numerically intensive applications and signal processing. Its distinctive feature is that it combines high-level program specifications with runtime efficiency similar to that of hand-optimized low-level specifications. Key to the optimization process that facilitates these runtimes is the underlying functional model which also constitutes the basis for implicit parallelisation. This makes SAC ideally suited for harnessing the full potential of a wide variety of modern architectures ranging from a few symmetric cores with shared memory to massively parallel systems that host heterogeneous components including GPUs and FPGAs.
